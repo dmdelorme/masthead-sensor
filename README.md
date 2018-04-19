@@ -1,4 +1,5 @@
 # masthead-sensor
+do not use bad board layout
 Wireless masthead unit for openplotter
 input 12V
 output wind speed via analog
